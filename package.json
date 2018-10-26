@@ -1,0 +1,16 @@
+{
+  "name": "mybag",
+  "version": "1.0.0",
+  "description": "lambda handler for my-bag app",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.343.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darius davis",
+  "license": "ISC"
+}
